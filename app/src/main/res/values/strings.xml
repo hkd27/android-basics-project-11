@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">tourGuideApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="custom_msg1">Large Text</string>
+    <string name="custom_msg2">Medium Text</string>
+    <string-array name="Titles">
+        <item>The Lake Palace</item>
+        <item>The City Palace</item>
+        <item>The Lake Pichola</item>
+        <item>UdaiVilas palace</item>
+        <item>The Kings Resort</item>
+    </string-array>
+    <string-array name="Details">
+        <item>Taj Lake Palace in Udaipur, is the most romantic hotel in the world.  It was built in 1746 as the pleasure palace of Maharana Jagat Singh II</item>
+        <item>Udaipur City Palace is the most-visited tourist attraction of Udaipur. Read more about City Palace of Udaipur, Rajasthan.</item>
+        <item>Lake Pichola, situated in Udaipur city in the Indian state of Rajasthan, is an artificial fresh water lake, created in the year 1362 AD, named after the nearby Picholi village.</item>
+        <item>Located on the bank of Lake Pichola, The Oberoi, Udaivilas stands on the 200 year old hunting grounds of the Maharana of Mewar. Spread over a luxurious fifty acres, which includes a twenty-acre wildlife sanctuary with deer and wild boar, The Oberoi Udaivilas affords spectacular views across the verdant gardens and sparkling Lake Pichola.</item>
+        <item>The hotel\'s intricate layout of interconnecting domes and corridors reflects the layout of Udaipur itself - whose seven lakes are linked by canals. These domes and walkways are flooded with sunlight, caressed by balmy breezes and offer magnificent views of the lake and gardens.</item>
+    </string-array>
+
+    <string-array name="factsTitle">
+        <item>Jaisamand Lake</item>
+        <item>Zinc and Copper Mines of Udaipur</item>
+        <item>Lake Palace</item>
+        <item>Beneshwar Fair</item>
+        <item>Kumbhalgarh</item>
+        <item>Udaipur Solar Observatory (USO)</item>
+        <item> Bagela Lake</item>
+        <item>tree house in Udaipur</item>
+    </string-array>
+    <string-array name="factsDesc">
+        <item>The Jaisamand Lake is renowned for being the second largest artificial freshwater lake in Asia. Located at a distance of 48 Km from the city of Udaipur, Jaisamand Lake is also known as Dhebar</item>
+        <item>The Zinc and Copper Mines of Udaipur region have been known to be excavated for metals even in the medieval times.</item>
+        <item>Lake Palace, also known as Jagniwas in its heydays, is located on an island in Lake Pichola. It’s a beautiful Palace and is about 1.5 hectares long almost covering the whole island. </item>
+        <item>The Beneshwar Fair holds great importance for the culture of Udaipur. The word Beneshwar is derived from Linga (Lord Shiva). </item>
+        <item>Kumbhalgarh is located 84 km North of Aravalli hills in Udaipur and houses the colossal Kumbhalgarh Fort – an important landmark of Mewar rulers. The fort was built in 15th century by Maharana Khumbha and was used to protect the Rajput warriors at the time of danger.</item>
+        <item>Udaipur Solar Observatory (USO), situated on an island in the Fateh Sagar Lake, is considered as the best solar observing site in Asia. It is also among the few in the world that are situated on an island.</item>
+        <item>Nagda is a small town located besides Bagela Lake at a distance of 23 km north-west of Udaipur on the way to Nathdwara. In the 6th century, Nagda was founded by Nagaditya, the fourth Mewar King. </item>
+        <item>The tree house in Udaipur was recently included in the Limca book of records. This tree-house, built around a 65-year-old mango tree, was built in 2000.</item>
+    </string-array>
+
+    <string-array name="foodiePhoneNo">
+        <item>+91-1111111111</item>
+        <item>+91-1111222222</item>
+        <item>+91-1111331111</item>
+        <item>+91-1881111111</item>
+        <item>+91-1117637111</item>
+    </string-array>
+    <string-array name="foodieTitle">
+        <item>The Spice House</item>
+        <item>Tradinational North INDIAN Food</item>
+        <item>Sweets for health</item>
+        <item>The Morning Snack House</item>
+        <item>The Shai Thali</item>
+    </string-array>
+    <string-array name="foodieDesc">
+        <item>Spices and herbs are in abundant use in Indian cooking. Take a look at the spices listed below and you’ll just be scratching the surface of Indian flavors. Combinations of spices, such as curry powders and masalas are commonly used.</item>
+        <item>Many Indian restaurants around the globe till late 90s are influenced by North Indian Cuisine. Indian restaurant cuisine has been influenced by Indian chefs who have migrated from North of India Specially Rajasthani style restaurants. </item>
+        <item>Few recipes listed here call for very little oil or ghee, which is optional and I have used it only to prevent damaging my non-stick pan. Most of these sweets are low calorie, healthy and are diabetic friendly.</item>
+        <item>onion pakoda recipe with step by step photos - fried crisp onion fritters made North indian style.rain gods have been kind to us and the rains have been gracing us for some days now. its cloudy, windy and rainy with occasional shine of the sun at times.i will be sharing a few favorite snacks that are a nostalgic memory for most of us in the indian rains.</item>
+        <item>In a country like India where every region cooks up an elaborate menu, the best way to explore any regional cuisine would be to settle for a thali. It is an absolute delight to eat a little bit of everything from the best that a cuisine can offer.</item>
+    </string-array>
+
+    <string-array name="restaurantName">
+        <item>Aravali Rooftop</item>
+        <item>Lake Shore Restaurant</item>
+        <item>Upre</item>
+        <item>Jheel\'s Ginger Cafe</item>
+        <item>Raaj Bagh</item>
+    </string-array>
+    <string-array name="restaurantLocation">
+        <item>Radisson Blu | Ambamata, Udaipur 313001, India</item>
+        <item>Brahmpal Road | Opposite Hotel Udai Kothi, Chandpole, Udaipur 313001, India</item>
+        <item>Outside Chand Pole, Brahmpol Road | Lake Pichola Hotel, Udaipur 313001, India</item>
+        <item>52-56, Gangour Ghat, Lake Pinchola | Jheel Guest House, Udaipur 313001, India</item>
+        <item>Ram Pratap Palace Hotel, Fateh Sagar Lake | Fateh Sagar Lake, Udaipur 313001, India</item>
+    </string-array>
+    <string-array name="restaurantTimings">
+        <item>7:00 pm - 11:00 pm Mon-Sun</item>
+        <item>7:00 pm - 11:00 pm Mon-Sun</item>
+        <item>6:00 pm - 10:00 pm Mon-Sun</item>
+        <item>8:00 pm - 8:00 pm Mon-Sun</item>
+        <item>6:00 pm - 11:00 pm Mon-Sun</item>
+
+    </string-array>
+</resources>
